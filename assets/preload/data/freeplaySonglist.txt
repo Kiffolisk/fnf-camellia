@@ -1,0 +1,3 @@
+Bits equal BPM:gf:1
+Bits equal BPM Old Chart:gf:1
+Bits equal BPM Baby Mode:gf:1
